@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-lesposbilldemo-dev-204243-authRole",
+      "UnauthRoleArn": "arn:aws:iam::686370908904:role/amplify-lesposbilldemo-dev-204243-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::686370908904:role/amplify-lesposbilldemo-dev-204243-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-lesposbilldemo-dev-204243-deployment",
+      "UnauthRoleName": "amplify-lesposbilldemo-dev-204243-unauthRole",
+      "StackName": "amplify-lesposbilldemo-dev-204243",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:686370908904:stack/amplify-lesposbilldemo-dev-204243/e26cb260-1f16-11ee-b776-06ad44770f53",
+      "AmplifyAppId": "d1lwyey9vdvc64"
+    },
+    "categories": {
+      "auth": {
+        "lesposbilldemo1765e7dd": {}
+      }
+    }
+  }
+}
